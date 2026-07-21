@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Website Design Mississauga | 6ix Developers</title>
+    
+        <meta name="description" content="We are an Award Winning and Certified Website Design Company Mississauga. Our Website Designs are custom tailored to make our client the best player in the market. Our Website Design are SEO compatible to get the best results.">
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+    </head>
+    
+    $userName = ucwords($_POST["username"]);
+
+    <body style="margin:0px; padding:0px">
+        
+        <div style="width:100%;
+                    background-image: linear-gradient(to top, white 40%, #ff6699 40%);
+                    padding:60px 0px; margin:0;">
+        
+        <div style="width:95%; 
+                    margin:0 auto;
+                    border-radius: 7px;
+                    box-shadow: 0px 6px 18px -8px rgba(0,0,0,0.86);">
+        
+            <div style="padding:35px 20px; 
+                        text-align:center;
+                        background-color:#051a2b;
+                        color:white;">
+            <img src="https://6ixdevelopers.com/media/logo/new-logo-white.png" width="160px">
+            
+            </div>
+            
+            <div style="padding:60px 20px 70px;
+                        color:white;
+                        background-color:white;">
+                
+                <div style="text-align:center; margin-bottom:50px">
+            
+                    <img src="https://6ixdevelopers.com/media/icons/done.png" width="70px">
+                
+                    <h2 style="color:#031523; font-size:30px; font-weight">Thank You '. $userName .'</h2>
+                </div>
+                
+                <div style="text-align:left;">
+                
+                <p style="color:#474747; font-size:16px; line-height:1.5em;">Your e-mail is on it’s way straight to the inbox of our qualified specialist. They review every e-mail personally, and will respond to you as quickly as they can.</p>
+
+                <p style="color:#474747; font-size:16px; line-height:1.5em;">In the meantime, please feel free to check us out on social media, or meet with <a href="https://6ixdevelopers.com/about-us">the team</a> who will be taking care of your project like a baby.</p>
+
+                <p style="color:#474747; font-size:16px; line-height:1.5em;">We look forward to the opportunity of working with you!</p>
+                <p>&nbsp;</p>
+
+                <p style="color:#474747; font-size:16px; line-height:1.5em;">Sincerely,</p>
+
+                <p style="color:#474747; font-size:16px; line-height:1.5em;">The 6ix Developers Team</p>
+                <p>&nbsp;</p>
+                
+                <span style="color:#474747; font-size:16px; line-height:1.5em;">Follow us: &nbsp;&nbsp;<a href="https://web.facebook.com/6ixDevelopers/"><img style="position:relative; top:14px;" src="https://6ixdevelopers.com/media/icons/facebook.png" width="40px"></a> &nbsp;&nbsp;<a href="https://www.instagram.com/6ixdevelopers/"><img style="position:relative; top:14px;" src="https://6ixdevelopers.com/media/icons/instagram-sketched.png" width="40px"></a></span>
+                    
+                </div>
+                    
+            </div>
+            
+            <div style="border-top:1px solid #cecece; padding:30px; 20px; text-align:center; color:black; background-color:#ededed">
+               <a style="color:black; text-decoration:none; font-size:14px;" href="https://6ixdevelopers.com/privacy-policy">Privacy Policy</a>&nbsp;  | &nbsp;<a style="color:black; text-decoration:none; font-size:14px;" href="https://6ixdevelopers.com/terms-and-conditions">Terms & Conditions</a>&nbsp; | &nbsp;<a style="color:black; text-decoration:none; font-size:14px;" href="https://6ixdevelopers.com/sitemap">Sitemap</a>
+            </div>
+        
+        </div>
+            
+        </div>
+    
+    </body>
+    
+</html>
